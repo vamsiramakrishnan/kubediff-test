@@ -5369,7 +5369,7 @@ items:
     uid: 63b37312-e343-11e8-bb0a-0a580aed2bef
   spec:
     progressDeadlineSeconds: 600
-    replicas: 1
+    replicas: 4
     revisionHistoryLimit: 10
     selector:
       matchLabels:
